@@ -4,6 +4,6 @@ Main components: RPI 3 + DHT11
 
 <img src="scheme0.png" alt="scheme" width="500"/>
 
-<img src="webserver.png" alt="webserver" width="250"/>
+<img src="webserver.png" alt="webserver" width="300"/>
 
 Developed at [Change Makers](https://changemakers.nuclio.org/)
